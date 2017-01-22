@@ -1,0 +1,9 @@
+{
+  "flockApp": {
+      "appSecret": "58388ed8-4b86-461a-8d4f-c7554df4b5f2",
+      "botGuid": "b9b3c455-e859-4fa4-b4ce-50abdae19b0e"
+  },
+  "wolframAlpha": {
+      "appId": "R9G3H4-9AYE9A4UQU"
+  }
+}
